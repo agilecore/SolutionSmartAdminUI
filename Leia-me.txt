@@ -1,0 +1,10 @@
+﻿-----------------------------------------------------------------------------------------------
+-- Leia-me
+-----------------------------------------------------------------------------------------------
+
+Ao abrir no visual studio 2012 para executar este projeto seguir os passos abaixo::after
+
+1 - apos aberto no visual studio 2012 segurar as teclas Ctrl + F5.
+2 - apos abrir o projeto no browser de sua preferencia navegar ate a url interna do projeto 
+    Exemplo: http://localhost:3173/SolutionSmartAdminUI/Views/Shared/layout.html
+    para acessar a aplicação.
